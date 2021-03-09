@@ -1,4 +1,4 @@
-export default function hello(num: number): string {
+export function hello(num: number): string {
   switch (num) {
     case 1:
       return 'aaa';
